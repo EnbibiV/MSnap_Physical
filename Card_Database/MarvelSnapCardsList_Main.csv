@@ -1,0 +1,412 @@
+Series,Card,Cost,Power,Card Ability,Awakened Ability,Tags
+0,Abomination,5,9,No ability.,Costs 1 less for each enemy card in play that's affected with negative Power.,No Ability
+0,Ant-Man,1,1,"Ongoing If your side of this location is full, +4 Power.",,Ongoing
+0,Blue Marvel,5,3,Ongoing: Your other cards have +1 Power.,,Ongoing
+0,Colossus,2,3,"Ongoing: Can't be destroyed, moved or have its Power reduced.",,"Destroy, Move, Ongoing"
+0,Cyclops,3,4,No ability.,"End of Turn: If you have unspent Energy, afflict 2 enemy cards here with -1 Power",No Ability
+0,Gamora,5,8,"On Reveal: If your opponent played a card here this turn, +4 Power.",,On Reveal
+0,Hawkeye,1,1,"On Reveal: If you play a card here next turn, +3 Power.",,On Reveal
+0,Hulk,6,12,No ability.,"End of Turn: If you have unspent Energy, +2 Power (if in hand or in play)",No Ability
+0,Iron Man,5,0,Ongoing: Your total Power is doubled at this Location.,,Ongoing
+0,Ironheart,3,0,On Reveal: Give 3 of your other cards +2 Power.,,On Reveal
+0,Jessica Jones,4,5,"On Reveal: If you don’t play a card at this location next turn, +4 Power.",,On Reveal
+0,Kazar,4,5,Ongoing: Your 1-Cost cards have +1 Power.,,Ongoing
+0,Medusa,2,2,"On Reveal: If this is at the middle Location, +3 Power.",,On Reveal
+0,Mister Fantastic,3,1,Ongoing: Adjacent locations have +3 Power,,Ongoing
+0,Misty Knight,1,2,No ability.,"End of Turn: If you have unspent Energy, give one of your other cards +1 Power",No Ability
+0,Nightcrawler,1,2,You can move this once.,,Move
+0,Odin,6,8,On Reveal: Repeat the On Reveal abilities of your other cards here.,,On Reveal
+0,Punisher,3,3,Ongoing: +1 Power for each opposing card at this Location.,,Ongoing
+0,Quicksilver,1,2,Starts in your opening hand.,,No Ability
+0,Sentinel,2,3,On Reveal: Add another Sentinel to your hand.,,On Reveal
+0,Shocker,2,3,No ability.,On Reveal: Give the leftmost card in your hand -1 Cost,No Ability
+0,Spectrum,6,6,On Reveal: Give your Ongoing cards +2 Power.,,"On Reveal, Ongoing"
+0,Star Lord,2,2,"On Reveal: If your opponent played a card here this turn, +4 Power.",,On Reveal
+0,The Thing,4,6,No ability.,On Reveal: Afflict 3 enemy cards here with -1 Power.,No Ability
+0,White Tiger,5,1,On Reveal: Add a 8-Power Tiger to another location.,,On Reveal
+0,Wolfsbane,3,1,On Reveal: +2 Power for each other card you have here.,,On Reveal
+1,America Chavez,1,2,On Reveal: Give the top card of your deck +2 Power.,,On Reveal
+1,Angel,2,3,"When one of your cards is destroyed, this flies out of your hand or deck to replace it.",,Destroy
+1,Angela,2,3,"When you play a card here, +1 Power.",,No Ability
+1,Apocalypse,6,8,"When you discard this from your hand, put it back with +4 Power.",,Discard
+1,Armor,2,3,Ongoing: Cards at this location can’t be destroyed.,,"Destroy, Ongoing"
+1,Bishop,3,1,"When you play a card, this gains +1 Power.",,No Ability
+1,Blade,1,3,On Reveal: Discard the rightmost card from your hand.,,"Discard, On Reveal"
+1,Cable,2,3,On Reveal: Put the bottom card of your opponent’s deck into your hand.,,On Reveal
+1,Captain America,3,3,Ongoing: Your other cards at this location have +2 Power.,,Ongoing
+1,Carnage,2,2,On Reveal: Destroy your other cards here. +2 Power for each destroyed.,,"Destroy, On Reveal"
+1,Cosmo,3,3,Ongoing: On Reveal abilities won’t happen at this location.,,"On Reveal, Ongoing"
+1,Deathlok,3,5,On Reveal: Destroy your other cards at this location.,,"Destroy, On Reveal"
+1,Devil Dinosaur,5,3,Ongoing: +2 Power for each card in your hand.,,Ongoing
+1,Doctor Strange,2,3,On Reveal: Move your highest power cards to this location.,,"Move, On Reveal"
+1,Domino,2,3,"You always draw this card on turn 2, and not before.",,No Ability
+1,Elektra,1,2,On Reveal: Destroy a random enemy 1-Cost card at this location.,,"Destroy, On Reveal"
+1,Enchantress,4,5,On Reveal: Remove the abilities from all Ongoing cards at this location.,,"Move, On Reveal, Ongoing"
+1,Forge,2,2,On Reveal: Give the next card you play +2 Power.,,On Reveal
+1,Groot,3,4,"On Reveal: If your opponent played a card here this turn, +4 Power.",,On Reveal
+1,Heimdall,6,9,On Reveal: Move your other cards one location to the left.,,"Move, On Reveal"
+1,Hulkbuster,2,3,On Reveal: Merge this card with a random friendly card at this location.,,"Merge, On Reveal"
+1,Iron Fist,1,2,On Reveal: Move the next card you play one location to the left after it reveals.,,"Move, On Reveal"
+1,Klaw,5,4,Ongoing: The location to the right has +8 Power.,,Ongoing
+1,Korg,1,2,On Reveal: Shuffle a Rock into your opponent’s deck.,,On Reveal
+1,Kraven,2,2,"When a card moves here, this gets +2 Power.",,Move
+1,Lady Sif,3,5,On Reveal: Discard the card that costs the most from your hand.,,"Discard, On Reveal"
+1,Lizard,2,5,Ongoing: -3 Power if your opponent has 4 cards here.,,Ongoing
+1,Mantis,1,2,"If your opponent played any cards here this turn, copy one of them into your hand.",,No Ability
+1,Mister Sinister,2,2,On Reveal: Add a Sinister Clone to this location with the same Power.,,On Reveal
+1,Moon Girl,4,4,On Reveal: Duplicate your hand.,,"Duplicate Card, On Reveal"
+1,Morph,3,0,On Reveal: Become a copy of a random card in your opponent’s hand.,,On Reveal
+1,Multiple Man,2,3,"When this moves, add a copy to the old location.",,Move
+1,Namor,4,6,Ongoing: +5 Power if this is your only card here.,,Ongoing
+1,Nova,1,1,"When this is destroyed, give your cards +1 Power.",,Destroy
+1,Onslaught,6,7,Ongoing: Double your other Ongoing effects at this location.,,Ongoing
+1,Professor X,5,2,Ongoing: Moving is the only way to add or remove a card from here.,,"Move, Ongoing"
+1,Rocket Raccoon,1,1,"On Reveal: If your opponent played a card here this turn, +4 Power.",,On Reveal
+1,Scarlet Witch,2,3,On Reveal: Replace this location with a random new one.,,On Reveal
+1,Spider-Woman,5,8,On Reveal: Afflict all enemy cards here with -1 Power.,,"Afflict, On Reveal"
+1,Squirrel Girl,1,2,On Reveal: Add a 1-Power Squirrel to each other location.,,On Reveal
+1,Strong Guy,3,3,Ongoing: +6 Power if your hand has one or fewer cards.,,Ongoing
+1,Sword Master,3,6,On Reveal: Discard a card from your hand.,,"Discard, On Reveal"
+1,Uatu the Watcher,1,2,"At the start of the game, shows unrevealed locations to you.",,No Ability
+1,White Queen,4,6,On Reveal: Copy the card that costs the most from your opponent’s hand into your hand.,,On Reveal
+1,Wolverine,2,3,"When this is discarded or destroyed, regenerate it at a random location with +2 Power.",,"Destroy, Discard"
+1,Yondu,1,2,On Reveal: Destroy the card that costs the least in your opponent’s deck.,,"Destroy, On Reveal"
+2,Agent 13,1,2,On Reveal: Add a random card to your hand.,,On Reveal
+2,Bucky Barnes,2,1,"When this is destroyed, create the Winter Soldier in its place.",,Destroy
+2,Cloak,2,4,"On Reveal: Next turn, both players can move cards to this location.",,"Move, On Reveal"
+2,Ebony Maw,1,7,"You can’t play this after turn 3.
+Ongoing: You can’t play cards here.",,Ongoing
+2,Hobgoblin,5,-8,On Reveal: Switch Sides,,"On Reveal, Switch Sides"
+2,Iceman,1,2,On Reveal: Give a random card in your opponent’s hand +1 Cost (maximum 6).,,On Reveal
+2,Jubilee,4,1,On Reveal: Add the top card of your deck at this location.,,On Reveal
+2,Killmonger,3,3,On Reveal: Destroy ALL 1-Cost cards.,,"Destroy, On Reveal"
+2,Leech,4,4,On Reveal: Remove the text from 6-Cost cards in your opponent’s hand.,,"Move, On Reveal"
+2,Morbius,2,0,Ongoing: +2 Power for each card you have discarded from your hand this game.,,"Discard, Ongoing"
+2,Nakia,3,3,On Reveal: Give the 2 leftmost cards in your hand +2 Power.,,On Reveal
+2,Okoye,2,2,On Reveal: Give every card in your deck +1 Power.,,On Reveal
+2,Rhino,3,3,On Reveal: Ruin this location (remove it’s ability).,,"Move, On Reveal"
+2,Sabretooth,3,5,"When this is destroyed, return it to your hand. It costs 0.",,Destroy
+2,Sandman,5,6,On Reveal: Players can only play 1 card next turn.,,On Reveal
+2,Scorpion,2,2,On Reveal: Afflict cards in your opponent’s hand with -1 Power.,,"Afflict, On Reveal"
+2,Shang-Chi,4,3,On Reveal: Destroy all enemy cards at this location that have 10 or more Power.,,"Destroy, On Reveal"
+2,Storm,3,2,On Reveal: Flood this location. Next turn is the last turn cards can be played here.,,On Reveal
+2,Sunspot,1,0,"At the end of each turn, gain +1 Power for each unspent Energy.",,No Ability
+2,Swarm,2,3,"When this is discarded from your hand, add two 0-Cost copies to your hand.",,Discard
+2,The Collector,2,2,"When a card enters your hand from anywhere (except your deck), +1 Power.",,No Ability
+2,The Infinaut,6,20,"If you played a card last turn, you can’t play this.",,No Ability
+2,Vision,5,8,You can move this each turn.,,Move
+2,Vulture,3,3,"When this card moves, +6 Power.",,Move
+2,Warpath,4,5,"Ongoing: If any of your locations are empty, +5 Power.",,Ongoing
+3,Absorbing Man,4,4,"On Reveal: If the last card you played has an On Reveal ability, this card copies it.",,On Reveal
+3,Adam Warlock,5,5,"At the end of each turn, if you are winning this location, draw a card.",,No Ability
+3,Aero,5,9,On Reveal: Move all enemy cards played this turn to this location.,,"Move, On Reveal"
+3,Agatha Harkness,6,14,Agatha starts in your hand and plays your cards for you.,,No Ability
+3,Agent Coulson,3,4,On Reveal: Add a random 4-cost and 5-cost card to your hand.,,On Reveal
+3,Arnim Zola,6,0,On Reveal: Destroy a random friendly card here. Add copies of it to the other locations.,,"Destroy, On Reveal"
+3,Attuma,4,10,"After each turn, destroy one of your cards here with less Power.",,Destroy
+3,Baron Mordo,2,3,On Reveal: The top card of your opponent’s deck costs 6 until turn 6.,,On Reveal
+3,Bast,1,1,On Reveal: Set the Power of all cards in your hand to 3.,,On Reveal
+3,Beast,3,5,On Reveal: Return your other cards at this location to your hand. They cost 1 less.,,On Reveal
+3,Black Bolt,5,7,On Reveal: Discard the card that costs the least from your opponent’s hand.,,"Discard, On Reveal"
+3,Black Cat,2,6,"If this is in your hand at the end of your turn, discard it.",,Discard
+3,Black Panther,5,4,On Reveal: Double this card’s Power.,,On Reveal
+3,Black Widow,3,3,On Reveal: Add a Widow’s Bite to your opponent’s hand.,,On Reveal
+3,Brood,3,2,On Reveal: Add 2 Broodlings to this location with the same Power.,,On Reveal
+3,Captain Marvel,4,5,"At the end of the game, move to a location that wins you the game. (If possible)",,Move
+3,Cerebro,3,0,Ongoing: Your highest Power cards get +2 Power.,,Ongoing
+3,Colleen Wing,2,4,On Reveal: Discard the card that costs the least from your hand.,,"Discard, On Reveal"
+3,Crossbones,4,10,You can only play this at locations where you are winning.,,No Ability
+3,Crystal,3,3,On Reveal: Each player draws a card.,,On Reveal
+3,Dagger,2,0,"When this moves to a location, +3 Power for each card your opponent has there.",,Move
+3,Daredevil,2,2,"On turn 5, you get to see your opponent’s plays before you make your own.",,No Ability
+3,Dazzler,2,2,Ongoing: +2 Power for each location that’s full on your side.,,Ongoing
+3,Deadpool,1,1,"When this is destroyed, return it to your hand with double the Power.",,Destroy
+3,Death,8,12,Costs 1 less for each card destroyed this game.,,Destroy
+3,Debrii,3,3,"On Reveal: Add a Rock to each other location, for both players.",,On Reveal
+3,Destroyer,6,14,On Reveal: Destroy your cards at other locations.,,"Destroy, On Reveal"
+3,Doctor Doom,6,5,On Reveal: Add a 5-Power DoomBot to each other location.,,On Reveal
+3,Doctor Octopus,4,8,On Reveal: Pull the lowest-Power card from your opponent’s hand to their side of this location.,,On Reveal
+3,Dracula,4,1,"At the end of the game, discard a card from your hand to gain its Power.",,Discard
+3,Drax,4,5,"On Reveal: If your opponent played a card here this turn, +4 Power.",,On Reveal
+3,Echo,1,2,"After your opponent plays an Ongoing card here, remove its abilities.",,"Move, Ongoing"
+3,Electro,3,2,On Reveal: +1 Max Energy. Ongoing: You can only play 1 card a turn.,,"Max Energy, On Reveal, Ongoing"
+3,Falcon,2,3,On Reveal: Return your 1-Cost cards to your hand.,,On Reveal
+3,Gambit,3,3,On Reveal: Discard a card from your hand. Destroy a random enemy card.,,"Destroy, Discard, On Reveal"
+3,Ghost,3,5,Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last),,"On Reveal, Ongoing"
+3,Ghost Rider,4,3,On Reveal: Bring back one of your discarded cards to this location.,,"Discard, On Reveal"
+3,Ghost Spider,1,2,On Reveal: The last card you played moves here.,,"Move, On Reveal"
+3,Giganto,6,14,You can only play this at the left location.,,No Ability
+3,Goose,2,2,"Ongoing: Nobody can play cards that cost 4, 5, or 6 at this location.",,Ongoing
+3,Green Goblin,3,-3,On Reveal: Switch Sides,,"On Reveal, Switch Sides"
+3,Havok,2,1,"After each turn, you lose 1 Max Energy and this gains +3 Power.",,Max Energy
+3,Hazmat,2,2,On Reveal: Afflict all other cards with -1 Power.,,"Afflict, On Reveal"
+3,Hela,6,6,On Reveal: Play all cards you discarded from your hand to random locations with -2 power.,,"Discard, On Reveal"
+3,Helicarrier,6,10,"When you discard this from your hand, fill your hand with random cards.",,Discard
+3,Hellcow,4,6,On Reveal: Discard 2 cards from your hand.,,"Discard, On Reveal"
+3,Hercules,3,4,"The first time another card moves here each turn, move it to another location.",,Move
+3,Howard the Duck,1,2,Ongoing: Tap this to see the top card of your deck.,,Ongoing
+3,Human Torch,1,2,"When this moves, double its Power.",,Move
+3,Invisible Woman,2,3,Ongoing: Cards you play here are not revealed until the game ends.,,"Game End, Ongoing"
+3,Jane Foster the Mighty Thor,5,9,On Reveal: Draw all cards that cost 0 from your deck.,,On Reveal
+3,Jean Grey,3,4,Ongoing:Players must play their first card here each turn (if possible).,,Ongoing
+3,Juggernaut,3,3,On Reveal: Move away all enemy cards played here this turn (including unrevealed cards).,,"Move, On Reveal"
+3,Kingpin,1,2,"When an enemy card moves here, afflict it with -2 Power.",,"Afflict, Move"
+3,Kitty Pryde,1,1,"When this returns to your hands, +1 Power. Returns at the start of each turn.",,No Ability
+3,Knull,6,0,Ongoing: Has the combined Power of all cards destroyed this game.,,"Destroy, Ongoing"
+3,Lady Deathstrike,5,7,On Reveal: Destroy each card here with 3 or less Power.,,"Destroy, On Reveal"
+3,Leader,6,3,"On Reveal: Copy the enemy card(s) with the highest Power played this turn, but on your side.",,On Reveal
+3,Lockjaw,4,4,"After you play a card here, swap it with a card in your deck. (Once per turn)",,No Ability
+3,Luke Cage,3,3,Ongoing: Your cards can’t have their Power reduced.,,Ongoing
+3,M’Baku,1,2,"At the end of the game, this jumps from your deck to your lowest-Power location (that isn’t full).",,No Ability
+3,Magik,3,2,You can’t play this on turn 6. On Reveal: Change this location to ‘Limbo’.,,On Reveal
+3,Magneto,6,12,On Reveal: Move all opposing 3 and 4-Cost cards to this location.,,"Move, On Reveal"
+3,Maria Hill,1,2,On Reveal:Add a random 2-Cost card to your hand.,,On Reveal
+3,Martyr,1,5,"At the end of the game, move to a location that LOSES you the game (if possible).",,Move
+3,Master Mold,2,2,On Reveal: Add 2 Sentinels to your opponent’s hand,,On Reveal
+3,Maximus,2,6,On Reveal: Your opponent draws 2 cards.,,On Reveal
+3,Miles Morales,4,6,"If a card moved last turn, this costs 1.",,Move
+3,Mirage,2,2,On Reveal: Copy the card that costs the least from your opponent’s hand into your hand. Give it +2 Power.,,On Reveal
+3,Mister Negative,4,-1,On Reveal: Swap the Power and Cost of all cards in your deck.,,On Reveal
+3,Mobius M. Mobius,3,3,On Reveal: Your card’s costs can’t be increased and your opponent’s costs can’t be reduced.,,On Reveal
+3,MODOK,5,8,On Reveal: Discard your hand.,,"Discard, On Reveal"
+3,Mojo,2,2,"Ongoing: If both sides here are full, +6 Power.",,Ongoing
+3,Moon Knight,3,3,On Reveal: Discard an even-costed card from each player’s hand.,,"Discard, On Reveal"
+3,Mysterio,2,4,"As you play this, play Illusions to other locations. Disguise this as an Illusion until the game ends.",,Game End
+3,Mystique,3,0,"On Reveal: If the last card you played has an Ongoing ability, this card gains it.",,"On Reveal, Ongoing"
+3,Nebula,1,1,"Each turn your opponent doesn’t play a card here, +2 Power. (except the turn you play this)",,No Ability
+3,Negasonic Teenage Warhead,3,2,"After an enemy card is played here, destroy it (once per game).",,Destroy
+3,Nick Fury,4,6,On Reveal: Add 3 random 6-Cost cards to your hand.,,On Reveal
+3,Nimrod,5,6,"When this card is destroyed, add a copy to each other location.",,Destroy
+3,Omega Red,4,5,"Ongoing: If you’re winning here, +3 Power to other locations.",,Ongoing
+3,Orka,6,11,Ongoing: + 5 Power if this is your only card here.,,Ongoing
+3,Patriot,3,1,Ongoing: Your cards with no abilities have +2 Power.,,Ongoing
+3,Polaris,3,5,On Reveal: Move an opposing 1 or 2-Cost card to this location.,,"Move, On Reveal"
+3,Psylocke,2,2,"On Reveal: Next turn, you get +1 Energy.",,On Reveal
+3,Quake,2,3,On Reveal: Swap the positions of the other two locations.,,On Reveal
+3,Quinjet,1,2,Ongoing: Cards that didn’t start in your deck cost 1 less.,,Ongoing
+3,Red Skull,5,14,Ongoing: Enemy cards at this location have +2 Power.,,Ongoing
+3,Rescue,4,4,"On Reveal: If you play a card here next turn, +5 Power.",,On Reveal
+3,Rockslide,3,3,On Reveal: Shuffle 2 Rocks into your opponent’s deck.,,On Reveal
+3,Rogue,3,2,On Reveal: Steal an Ongoing ability from a random enemy card at this location.,,"On Reveal, Ongoing"
+3,Ronan the Accuser,5,5,Ongoing: +2 Power for each card in your opponent’s hand.,,Ongoing
+3,Sauron,3,4,On Reveal: Remove the abilities from all Ongoing cards in your hand and deck.,,"Move, On Reveal, Ongoing"
+3,Selene,1,2,On Reveal: Afflict the lowest-Power card in each player’s hand with -3 Power.,,"Afflict, On Reveal"
+3,Sentry,4,8,Cannot be played at the right Location. On Reveal: Add a -8 Power Void to the right Location.,,On Reveal
+3,Sera,5,5,Ongoing: Cards in your hand cost 1 less. (minimum 1),,Ongoing
+3,Shadow King,2,2,On Reveal:Reset all cards here to their original Power.,,On Reveal
+3,Shanna,3,4,On Reveal: Add a random 1-Cost card to each Location.,,On Reveal
+3,She-Hulk,6,10,Costs 1 less for each unspent Energy last turn.,,No Ability
+3,Shuri,4,1,"On Reveal: If you play your next card here, double its Power.",,On Reveal
+3,Silk,2,5,"When anyone plays a card here, move this to another location.",,Move
+3,Silver Samurai,4,5,On Reveal: Each player discards the lowest-Power card from their hand.,,"Discard, On Reveal"
+3,Silver Surfer,3,2,On Reveal: Give your other 3-Cost cards +2 Power,,On Reveal
+3,Snowguard,1,2,On Reveal: Add the Hawk and Bear auroras to your hand.Hawk [3/3] On Reveal: Ignore all location abilities until the end of next turn (or the game).Bear [3/4] On Reveal: Trigger the effect of this location.,,"On Reveal, Trigger"
+3,Spider-Ham,1,1,"On Reveal:Transform the leftmost card in your opponent’s hand into a Pig, keeping its Power and Cost.",,"On Reveal, Transform"
+3,Spider-Man,3,5,On Reveal: Move to another location and pull an enemy card from here to there.,,"Move, On Reveal"
+3,Spider-Man 2099,5,9,"The first time this moves to a location, destroy an enemy card there.",,"Destroy, Move"
+3,Stature,5,7,Costs 1 if your opponent discarded a card from their hand this game.,,Discard
+3,Stegron,4,7,On Reveal: Move an enemy card from here one location to the right.,,"Move, On Reveal"
+3,Super Skrull,4,2,Ongoing: Has the Ongoing effects of all enemy cards.,,Ongoing
+3,Taskmaster,6,0,On Reveal: Set this card’s Power equal to the Power of the last card you played (if that card’s in play).,,On Reveal
+3,The Hood,1,-3,On Reveal: Add a Demon to your hand.,,On Reveal
+3,Thor,3,4,On Reveal: Shuffle Mjolnir into your deck.,,On Reveal
+3,Titania,1,5,"When ANY card is played at this location, this card switches sides.",,No Ability
+3,Typhoid Mary,4,10,Ongoing: Your other cards have -1 Power.,,Ongoing
+3,Ultron,6,8,On Reveal: Create four 2-Power Drones at each other location.,,On Reveal
+3,Valkyrie,5,3,On Reveal: Set ALL cards at this location to 3 Power.,,On Reveal
+3,Venom,3,3,On Reveal: Destroy your other cards at this location. Add their Power to this card.,,"Destroy, On Reveal"
+3,Viper,3,5,On Reveal: One of your other cards here with the lowest Power switches sides.,,On Reveal
+3,Wasp,0,1,No ability.,On Reveal: Afflict an enemy card here with -1 Power.,No Ability
+3,Wave,3,6,On Reveal: All cards cost a maximum of 4 until the end of the next turn.,,On Reveal
+3,Wong,4,2,Ongoing: Your On Reveal abilities at this location happen twice.,,"On Reveal, Ongoing"
+3,Yelowjacket,0,2,On Reveal: Afflict your other cards at this location with -1 Power.,,"Afflict, On Reveal"
+3,Zabu,4,2,"Ongoing: Until the end of the next turn, your 4-Cost cards cost 1 less.",,Ongoing
+3,Zero,1,3,On Reveal: Remove the abilities on the next card you play.,,"Move, On Reveal"
+4,Agony,1,2,"After you play a card here, merge this with it.",,Merge
+4,Annihilus,4,6,On Reveal: Your cards with Power below 0 switch sides. Destroy those that can’t.,,"Destroy, On Reveal, Switch Sides"
+4,Beta Ray Bill,4,5,On Reveal: Shuffle Stormbreaker into your deck.,,On Reveal
+4,Black Knight,1,2,"After you discard a card, add the Ebony Blade to your hand with that card’s Power (once per game)",,Discard
+4,Blob,6,0,On Reveal: Merge cards from your deck into this until it gains 13 or more Power.,,"Merge, On Reveal"
+4,Cannonball,5,8,"On Reveal: Move an enemy card away from here and add a Rock where it was. If it can’t move, destroy it to add the Rock.",,"Destroy, Move, On Reveal"
+4,Corvus Glaive,3,5,On Reveal: Discard 2 cards from your hand to get +1 Max Energy.,,"Discard, Max Energy, On Reveal"
+4,Cull Obsidian,4,10,You can only play this where you have a 1-Cost card.,,No Ability
+4,Daken,3,4,On Reveal: Add the Muramasa Shard to your hand.,,On Reveal
+4,Darkhawk,5,3,Ongoing: + 2 Power for each card in your opponent’s deck.,,Ongoing
+4,Elsa Bloodstone,3,3,Each card you play to fill your side of a location gains +2 Power.,,No Ability
+4,Gladiator,3,8,"On Reveal: Add a card from your opponent’s deck to their side of this location. If it has less Power, destroy it.",,"Destroy, On Reveal"
+4,Gorgon,2,3,Ongoing: Your opponent's created cards cost 1 more. (maximum 6).,,Ongoing
+4,Grand Master,2,2,On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.,,"Move, On Reveal"
+4,Hit Monkey,3,3,On Reveal: Gain +2 Power for each other card you played this turn.,,On Reveal
+4,Iron Lad,4,6,On Reveal: Copy the text of your deck’s top card.,,On Reveal
+4,King Eitri,1,2,Activate: Draw a created card from your deck.,,Activate
+4,Lasher,2,2,Activate: Aflict an emeny card here with negative Power equal to this card's Power.,,Activate
+4,Laufey,4,5,On Reveal: Steal 1 Power from each other card here.,,On Reveal
+4,Legion,5,7,On Reveal: Replace each other location with this one.,,On Reveal
+4,Loki,1,2,On Reveal: Replace your deck with your opponent’s starting deck. Give those cards -1 Cost.,,On Reveal
+4,Man-Thing,4,7,"Ongoing: 1, 2, and 3-cost cards here have -2 Power.",,Ongoing
+4,Miek,1,0,"When you discard a card, this gains +1 Power and can move next turn",,"Discard, Move"
+4,Ms. Marvel,4,4,Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power.,,Ongoing
+4,Phastos,3,3,On Reveal: Give each card in your deck -1 Cost or +2 Power.,,On Reveal
+4,Phoenix Force,4,5,On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.,,"Destroy, Merge, Move, On Reveal"
+4,Pixie,1,3,On Reveal: Shuffle the base Costs of all cards in your deck that started there.,,On Reveal
+4,Ravonna Renslayer,2,2,Ongoing: Your cards with 1 or less Power cost 1 less (minimum 1),,Ongoing
+4,Sasquatch,6,10,Costs 1 less for each card you played last turn.,,No Ability
+4,Sebastian Shaw,3,4,"When this card permanently gains Power, gain +2 more Power (wherever this is).",,No Ability
+4,Skaar,6,11,Costs 2 less for each of your cards that has 10 or more power.,,No Ability
+4,Supergiant,1,2,On Reveal: All cards played this turn and next turn don’t reveal until the game ends.,,"Game End, On Reveal"
+4,The Living Tribunal,6,9,"At the end of the game, split your Power evenly among all Locations.",,No Ability
+4,Uncle Ben,1,2,"When this card is destroyed, replace it with Spider-Man.",,Destroy
+4,Valentina,2,2,On Reveal: Add a random 6-cost card to your hand. Give it -2 Cost and -2 Power.,,On Reveal
+4,Werewolf By Night,3,2,"After you play an On Reveal card at another location, move there and gain +2 Power.",,"Move, On Reveal"
+4,X-23,1,2,On Reveal: Each player discards the lowest-Power card from their hand.,,"Discard, On Reveal"
+5,Agamotto,5,10,Game Start: Shuffle 4 Ancient Arcana into your deck.,,Game Start
+5,Agent Venom,2,5,On Reveal: Set the Power of all cards in your deck to 3.,,On Reveal
+5,Ajax,4,4,Ongoing: +1 Power for each card in play afflicted with negative Power.,,"Afflict, Ongoing"
+5,Alioth,6,10,On Reveal: Remove the text from all unrevealed enemy cards here.,,"Move, On Reveal"
+5,Anti-Venom,4,7,On Reveal: Set the Cost and Power of your deck's top card to 0.,,On Reveal
+5,Araña,2,2,Activate: Give the last card you played +2 Power and move it to the right.,,"Activate, Move"
+5,Ares,4,6,"On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power.",,On Reveal
+5,Arishem,7,7,"At the start of the game, +1 Max Energy. Shuffle 15 random cards into your deck.",,Max Energy
+5,Baron Zemo,3,5,On Reveal: Recruit a card that costs the least from your opponent’s deck to your side of this location.,,On Reveal
+5,Black Swan,2,3,"On Reveal: Until the end of your next turn, your 1-Cost cards cost 0.",,On Reveal
+5,Blink,5,7,On Reveal: Swap the last card you played with a card that costs more from your deck.,,On Reveal
+5,Bruce Banner,2,1,"End of Turn: If you have unspent Energy, 33% chance to HULK OUT!",,End of Turn
+5,Bullseye,3,3,Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different cards with -2 Power.,,"Activate, Afflict, Discard"
+5,Caiera,3,4,Ongoing: Your 1 and 6-Cost cards can’t be destroyed.,,"Destroy, Ongoing"
+5,Cassandra Nova,3,0,On Reveal: Drain 1 Power from each card in your opponent’s deck.,,On Reveal
+5,Copycat,3,5,"When you draw this, copy the text from the bottom card of your opponent’s deck.",,No Ability
+5,Diamondback,3,3,Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power.,,"Afflict, Ongoing"
+5,Doctor Doom 2099,4,3,End of Turn: Add a DoomBot 2099 to a random location if you played (exactly) 1 card.,,End of Turn
+5,Emperor Hulkling,6,11,"At the start of the game, copy the text of a random 6-cost card.",,No Ability
+5,Eson,6,10,End of Turn: Put a created card from your hand here.,,End of Turn
+5,Fenris Wolf,2,3,Activate: Resurrect your opponent's highest-Power discarded or destroyed card on your side of this location.,,"Activate, Destroy, Discard"
+5,Firehair,2,3,"When one of your cards is destroyed, this uses that card's On Reveal.",,"Destroy, On Reveal"
+5,Frigga,3,4,On Reveal: Add a copy of the last card you played to your hand. (If able),,On Reveal
+5,Galacta,4,6,"Each turn, the first card you play at another location reveals with +3 Power.",,On Reveal
+5,Galactus,6,5,"On Reveal: If you’re winning this location and this is your only card here, destroy all other locations.",,"Destroy, On Reveal"
+5,Gilgamesh,5,9,On Reveal: +1 Power for each of your other cards in play with increased Power.,,On Reveal
+5,Gorr,6,-1,Ongoing: +2 Power for EACH On Reveal card in play.,,"On Reveal, Ongoing"
+5,Gwenpool,4,4,On Reveal: Pick a random card in your hand 4 times. Give +2 Power each time.,,On Reveal
+5,Hawkeye Kate Bishop,2,3,On Reveal: Add 2 Arrows to your hand.,,On Reveal
+5,High Evolutionary,4,6,"At the start of the game, unlock the secret ability of all your cards with no abilities.",,No Ability
+5,Hope Summers,3,3,"After you play a card here, you get +2 Energy next turn.",,No Ability
+5,Hydra Bob,1,5,"After each turn, this moves if a player Snapped.",,Move
+5,Iron Patriot,2,3,"On Reveal: Add a random 4, 5, or 6-Cost card to your hand. If you're winning here after next turn, give it -4 Cost.",,On Reveal
+5,Jeff the Baby Land Shark,2,3,You can move this once. Nothing can stop you from moving or playing this to any location.,,Move
+5,Joaquin Torres (Falcon II),2,2,Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice.,,"On Reveal, Ongoing"
+5,Kang,5,0,"On Reveal: Look at what your opponent did, then restart the turn (without Kang).",,On Reveal
+5,Luna Snow,3,6,On Reveal: Add an Ice Cube to each side of this location.,,On Reveal
+5,Madame Web,2,3,Ongoing: You can move one of your other cards away from here each turn.,,"Move, Ongoing"
+5,Makkari,3,3,"After the turn, runs from your hand to a random location. (if possible)",,No Ability
+5,Malekith,4,6,"On Reveal: Add a 1, 2, or 3-Cost card from your deck here, but don't reveal until the game ends.",,"Game End, On Reveal"
+5,Marvel Boy,3,2,"After each turn, give 3 of your 1-cost cards +1 power",,No Ability
+5,Misery,4,8,"On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them.",,"Destroy, On Reveal"
+5,Mockingbird,6,10,Costs 1 less for each card you have in play that didn’t start in your deck.,,No Ability
+5,Namora,5,5,On Reveal: Give +5 Power to each of your cards alone at another location.,,On Reveal
+5,Nico Minoru,1,2,"On Reveal: After you play your next card, cast a spell (the spell changes each turn).",,On Reveal
+5,Nocturne,3,4,"You can move this once. When this moves, replace its location with a random new one.",,Move
+5,Peni Parker,2,3,"On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn.",,"Merge, On Reveal"
+5,Proxima Midnight,4,6,"When this is discarded, jumps to your lowest-Power location (that isn’t full).",,Discard
+5,Red Guardian,3,4,On Reveal: Remove the text of the lowest-Power enemy card here.,,"Move, On Reveal"
+5,Red Hulk,6,10,"When your opponent ends a turn with unspent Energy, +3 Power (if in hand or in play)",,No Ability
+5,Redwing,3,4,"The first time this moves, add a card from your hand to the old location.",,Move
+5,Rocket and Groot,3,3,"You can move this once. After your opponent plays a card here, steal 1 Power from it.",,Move
+5,Sage,4,1,On Reveal: +2 Power for each different Power among all other cards here.,,On Reveal
+5,Sam Wilson (Captain America),2,3,Game Start: Add Cap's Shield to a random location. Ongoing: You can move Cap's Shield.,,"Game Start, Move, Ongoing"
+5,Scarlet Spider,4,5,Activate: Add an exact clone of this to another location.,,Activate
+5,Scorn,1,2,"When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play.",,Discard
+5,Scream,2,3,"When an enemy card moves, steal 2 Power from it. (once per turn)",,Move
+5,Sersi,5,7,On Reveal: Transform your other cards here into random cards that cost 1 more. (if possible),,"On Reveal, Transform"
+5,Silver Sable,1,1,On Reveal: Steal 2 Power from the top card of your opponent’s deck.,,On Reveal
+5,Speed,3,3,Ongoing: +1 Power for each turn in which you spent all your Energy.,,Ongoing
+5,Starbrand,3,10,Ongoing: Your opponent has +3 Power at each other location.,,Ongoing
+5,Surtur,3,5,"After you play a card with 10 or more Power, this gains +2 Power.",,No Ability
+5,Symbiote Spider-Man,4,7,Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.,,"Activate, Merge"
+5,Thaddeus Ross,2,2,"End of Turn: If your opponent has unspent Energy, draw a card with 10 or more Power.",,End of Turn
+5,Thanos,6,12,Starts in your opening hand and shuffles the six Infinity Stones into your deck.,,No Ability
+5,Thena,2,0,"After each turn, +3 Power if you played (exactly) 2 cards.",,No Ability
+5,Toxin,2,1,On Reveal: Return your other cards here to your hand. +2 Power for each returned.,,On Reveal
+5,US Agent,2,6,"Ongoing: 4, 5, and 6-Cost cards here have -4 Power.",,Ongoing
+5,Victoria Hand,2,3,Ongoing: Your cards that were created in your hand have +2 Power.,,Ongoing
+5,War Machine,4,7,"On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere.",,On Reveal
+5,White Widow,2,2,On Reveal: Add a -1-Power Widow’s Kiss to your opponent’s side here.,,On Reveal
+5,Wiccan,4,5,"On Reveal: If you’ve spent all your Energy this game, +2 Max Energy",,"Max Energy, On Reveal"
+Unreleased,Batroc the Leaper,1,2,"When a card moves, follow it to gain +2 Power. (once per turn)",,
+Unreleased,Captain Carter,4,3,Ongoing: Add this Card's Power to your back-row cards here (can't add to itself),,
+Unreleased,Cobra,2,3,Activate: Switch one of your opponent's cards here to your side.,,
+Unreleased,Dum Dum Dugan,2,3,Ongoing: Your frow-row cards here have +1 Power. (can't add to itself),,
+Unreleased,Elixir,1,1,"Ongoing: The next time one of your cards is destroyed this turn, revive it here.",,
+Unreleased,Esme Cuckoo,3,4,On Reveal: Copy a card from your deck into your hand. Set its Cost to 3 and Power to 4.,,
+Unreleased,Fan Fei,4,7,Activate: Move your other cards here to the right.,,
+Unreleased,Firestar,6,4,On Reveal: Each card you played last turn gains +3 Power.,,
+Unreleased,Goliath,2,1,Ongoing: +1 Power for each other Ongoing card you have in play.,,
+Unreleased,Hellion,5,8,"On Reveal: Next turn, you can move cards to this location.",,
+Unreleased,Hydra Stomper,3,2,Ongoing: +1 Power for each time one of your cards moved this game.,,
+Unreleased,Kahhori,4,6,On Reveal: Each card in your hand gives one of your cards in play +1 Power.,,
+Unreleased,Khonshu,6,5,"When discarded, returns in its next phase. On Reveal (standard): Resurrect a card you discarded to another location with its Power set to 5. On Reveal (Waxing): Resurrect a card you discarded to another location with its Power set to 8. On Reveal (Full Moon): Resurrect a card you discarded to another location with its Power set to 12.",,
+Unreleased,Kid Omega,2,2,Activate: Destroy the next card you play this turn to gain its Power.,,
+Unreleased,Mercury,2,2,You can move this once. Ongoing: Enemy cards here can't move.,,
+Unreleased,Night Nurse,2,2,On Reveal: Add all cards you discarded or destroyed last turn to your hand.,,
+Unreleased,Prodigy,3,4,"On Reveal: If this is in the back row, copy the text of the card in front of it.",,
+Unreleased,Random,4,0,On Reveal: Set this card's Power equal to the Power of a random card in your deck.,,
+Unreleased,Strange Supreme,2,2,Gains +2 Power from merging. End of Turn: Merge one of your created cards into this.,,
+Unreleased,Stryfe,3,7,"If your opponent has 12+ Power here at the end of any turn, destroy this.",,
+Unreleased,Surge,2,2,"On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability.",,
+Unreleased,Tombstone,4,6,Costs 1 if an enemy card was destroyed last turn.,,
+Unreleased,Toxie Doxie,2,4,On Reveal: Draw a card. You can't play cards next turn.,,
+Unreleased,Witchfire,2,3,"On Reveal: Your opponent draws a card, increase its cost by 1.",,
+Unreleased,Xorn,2,3,"After ANY 3 or 4-Cost card is played here, move it to another location.",,
+Xtras,Acid Arrow,1,-2,On Reveal: Switch sides.,,"On Reveal, Switch Sides"
+Xtras,Basic Arrow,1,1,"On Reveal: If you play a card at this location next turn, +3 Power.",,On Reveal
+Xtras,Bolts of Balthaak,3,0,"On Reveal: Next turn, you get +4 Energy. (Banish this)",,"Banish, On Reveal"
+Xtras,Broodling,3,2,No ability.,,No Ability
+Xtras,Cap's Shield,0,1,Ongoing: This can't be destroyed. Give your Cap +2 Power when this moves to Cap's location.,,"Destroy, Move, Ongoing"
+Xtras,Chimichanga,0,2,On Reveal: Merge this with one of your cards here.,,"Merge, On Reveal"
+Xtras,Demon,1,6,No ability.,,No Ability
+Xtras,Djinn,0,1,"On Reveal: Next turn, you get +2 Energy.",,On Reveal
+Xtras,DoomBot,6,5,No ability.,,No Ability
+Xtras,DoomBot 2099,4,0,Ongoing: Your other DoomBots and Doom have +1 Power.,,Ongoing
+Xtras,Drone,1,2,No ability.,,No Ability
+Xtras,Ebony Blade,4,0,Ongoing: Can't be destroyed.,,"Destroy, Ongoing"
+Xtras,Grapple Arrow,1,3,"On Reveal: After you play your next card, move it to this location.",,"Move, On Reveal"
+Xtras,Ice Cube,1,0,"At the start of each turn, get +1 Energy. Then destroy this if your side is full here.",,Destroy
+Xtras,Illusion!,2,0,This is a fake Mysterio!,,No Ability
+Xtras,Images of Ikonn,4,0,On Reveal: Transform your other cards here into copies of the highest-Power one. (Banish this),,"Banish, On Reveal, Transform"
+Xtras,Mind Stone,1,1,On Reveal: Draw 2 Stones from your deck.,,On Reveal
+Xtras,Mjolner,0,0,On Reveal: Give Thor +6 Power.,,On Reveal
+Xtras,Monster,6,10,No ability.,,No Ability
+Xtras,Muramasa Shard,1,1,"When this is discarded or destroyed, double Daken's Power.",,"Destroy, Discard"
+Xtras,Mysterio?,2,0,Which is the real Mysterio? The real one has 4 Power.,,No Ability
+Xtras,NM: Copy Card to Hand,1,2,"On Reveal: After you play your next card, add a copy of it to your hand.",,On Reveal
+Xtras,NM: Demon,1,2,"On Reveal: After you play your next card, it becomes a Demon.",,On Reveal
+Xtras,NM: Destroy & Draw,1,2,"On Reveal: After your play your next card, destroy it to draw two cards.",,"Destroy, On Reveal"
+Xtras,NM: Double Power,1,2,"On Reveal: After your play your next card, double this card's Power.",,On Reveal
+Xtras,NM: Move,1,2,"On Reveal: After your play your next card, move it one location to the right.",,"Move, On Reveal"
+Xtras,NM: Power,1,2,"On Reveal: After you play your next card, give it +2 Power.",,On Reveal
+Xtras,NM: Replace Location,1,2,"On Reveal: After you play your next card, replace that card's location.",,On Reveal
+Xtras,Ninja,1,-2,No ability.,,No Ability
+Xtras,Pig,0,0,No ability.,,No Ability
+Xtras,Power Stone,1,2,"Ongoing: If you've played all 6 stones, Thanos has +10 Power. (wherever he is)",,Ongoing
+Xtras,PymParticle Arrow,1,1,"Ongoing: If your side of this location is full, +3 Power.",,Ongoing
+Xtras,Raptor,1,1,No ability.,,No Ability
+Xtras,Reality Stone,1,1,On Reveal: Replace this location with a new one.,,On Reveal
+Xtras,Rock,1,0,No ability.,,No Ability
+Xtras,Scarlet Spider Clone,4,5,No ability.,,No Ability
+Xtras,Sinister Clone,2,2,No ability.,,No Ability
+Xtras,Snowguard Bear,3,4,On Reveal: Trigger the effect of this location.,,"On Reveal, Trigger"
+Xtras,Snowguard Hawk,3,3,On Reveal: Ignore all location abilities until the end of next turn.,,On Reveal
+Xtras,Soul Stone,1,1,On Reveal: Draw a card. Ongoing: Thanos can't be discarded or destroyed.,,"Destroy, Discard, On Reveal, Ongoing"
+Xtras,Sp//dr,3,3,On Reveal: Merge with one of your others cards here. You can move that card next turn.,,"Merge, Move, On Reveal"
+Xtras,Space Stone,1,2,On Reveal: Draw a card. Ongoing: Nothing can stop you from playing or moving Thanos.,,"On Reveal, Ongoing"
+Xtras,Squirrel,1,1,No ability.,,No Ability
+Xtras,Stormbreaker,0,3,On Reveal: Double Beta Ray Bill's Power.,,On Reveal
+Xtras,Symbiote,4,0,No ability.,,No Ability
+Xtras,Temporal Manipulation,1,0,On Reveal: Give Agamotto +3 Power. Put him into your hand if he's not in play. (Banish this),,"Banish, On Reveal"
+Xtras,The Void,4,-9,No ability.,,No Ability
+Xtras,Tiger Spirit,5,8,No ability.,,No Ability
+Xtras,Time Stone,1,1,On Reveal: Give Thanos -1 Cost. Draw a card.,,On Reveal
+Xtras,Vibranium,1,4,Ongoing: Can't be destroyed.,,"Destroy, Ongoing"
+Xtras,Widow's Bite,0,-1,"While this is in your hand, you can't draw cards.",,No Ability
+Xtras,Widow's Kiss,0,-4,Destroy this when your side of this location is full.,,Destroy
+Xtras,Winds of Watoomb,2,0,On Reveal: Afflict an enemy card here with -5 Power and move it right. (Banish this),,"Afflict, Banish, Move, On Reveal"
+Xtras,Winter Soldier,2,7,No ability.,,No Ability
